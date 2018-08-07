@@ -1,2 +1,4 @@
 This a .txt file.
 commit -m "  "
+git push -u origin master  //frist push
+git push origin master   //later
